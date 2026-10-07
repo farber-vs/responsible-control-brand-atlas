@@ -1,0 +1,9 @@
+.DS_Store
+.obsidian/workspace*
+.tmp/
+*.inspect.ndjson
+*.log
+
+# Legacy working copy; its canonical content is curated into Documentation,
+# Research and Presentation.
+responsible_control/
