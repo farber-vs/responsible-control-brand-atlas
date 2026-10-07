@@ -1,0 +1,87 @@
+---
+layout: default
+title: "ETHNOGRAPHIC OBSERVATION — наблюдение в контексте"
+---
+
+[← Карта Atlas]({{ site.baseurl }}/) · [Исходник](https://github.com/farber-vs/responsible-control-brand-atlas/blob/main/brandatlas/Methods/Ethnographic_Observation.md)
+
+# ETHNOGRAPHIC OBSERVATION — наблюдение в контексте
+
+[← Methods Overview]({{ site.baseurl }}/atlas/Methods/METHODS_OVERVIEW.html)
+
+## Method Definition
+
+### Purpose
+
+Изучить фактические действия, последовательности, среду, артефакты, ритуалы и обходные решения в естественном контексте. Shadowing является одним из режимов наблюдения и не требует отдельной карточки метода.
+
+### Categories
+
+- Research
+- Service / Experience
+
+### Use When
+
+- значимая часть опыта плохо восстанавливается только по рассказу;
+- важны физическая среда, невысказанные привычки, взаимодействие людей и инструментов;
+- нужно понять реальную работу сотрудника, клиента, сообщества или пространства.
+
+### Do Not Use When
+
+- присутствие наблюдателя создаёт неприемлемый риск или нарушение приватности;
+- нет согласия и понятной этической рамки;
+- единичное наблюдение предполагается использовать как типичную норму без проверки;
+- интерпретация эмоций подменяет наблюдение действий.
+
+### Required Inputs
+
+- Project Question, локация/контекст, роли и временная граница;
+- способ доступа, согласия и защиты чувствительной информации;
+- протокол полевых заметок и план последующего уточнения.
+
+### Process
+
+1. Выбрать режим: наблюдение среды, participant observation или shadowing конкретной роли.
+2. Зафиксировать условия, время и влияние наблюдателя.
+3. Записывать действия, последовательности, речь, объекты и контекст отдельно от интерпретаций.
+4. Уточнить непонятные действия у участника, если это безопасно и уместно.
+5. Сопоставить с другими сессиями и источниками; сформулировать patterns и неизвестные.
+
+### Limitations
+
+- поведение может изменяться из-за наблюдения;
+- доступный момент может быть нетипичным;
+- наблюдение показывает действие, но не автоматически его мотив;
+- исследовательская позиция и культурная интерпретация влияют на запись.
+
+## Application Records
+
+### ETH-ID — контекст / роль
+
+- **Date / version:** …
+- **Project Question:** …
+- **Mode / location / time:** …
+- **Participants / role:** …
+- **Consent / privacy / researcher effect:** …
+
+#### Field notes
+
+| Time / situation | Observable action / words | Environment / artifact | Researcher interpretation | Clarification / evidence | Confidence |
+|---|---|---|---|---|---|
+| … | … | … | … | … | … |
+
+#### Patterns and findings
+
+| Pattern / friction / ritual | Supporting observations | Alternative explanation | Limitation | Canonical Use |
+|---|---|---|---|---|
+| … | … | … | … | Audience, CJM, Touchpoints, Service Journey или другое: … |
+
+- **Status:** …
+- **Next Step:** …
+
+## Статус универсальной карточки
+
+- **Method Definition:** согласован в составе библиотеки.
+- **Merged legacy card:** Shadowing.
+- **Application Records конкретного бренда:** отсутствуют.
+

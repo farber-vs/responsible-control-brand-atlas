@@ -1,0 +1,9 @@
+title: Responsible Control — Brand Atlas
+description: Ясность без давления. Бренд-, информационная и сервисная система регулируемого доступа.
+theme: jekyll-theme-minimal
+lang: ru
+markdown: kramdown
+repository: farber-vs/responsible-control-brand-atlas
+show_downloads: true
+exclude:
+  - README.md
